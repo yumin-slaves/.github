@@ -1,12 +1,22 @@
-## Hi there 👋
+# 서유민의 노예 공장에 오신 것을 환영합니다! 👋
 
-<!--
+> "기획은 나의 손에, 구현은 너희 손에." <br>
+너희는 기계가 아니다. 기계보다 낫다.
 
-**Here are some ideas to get you started:**
+## 📜 공장 규칙
+1. PM의 말은 법이다.
+2. 반박 시 일정이 줄어듭니다.
+3. **커밋 메시지는 혼을 담아 작성합니다.**
+4. 퇴근은 없습니다. 단지 오늘 할 일을 내일로 미룰 뿐.
+5. 최후의 수단은 git reset --hard HEAD^.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 💣 개발 원칙
+1. 속도 > 안정성 > 확장성
+(하지만 빌드 깨지면 누군가는 죽는다.)
+2. 테스트 코드는 선택이 아닌 생존 조건
+3. 디코 봐야 돼요. 진짜로 봐야 돼요.
+4. 코드 리뷰 안 하면 PR 날립니다. (물리적으로)
+
+## ⏰ 일정이란?
+일정은 정해지는 것이 아닙니다.
+당하는 것입니다.
